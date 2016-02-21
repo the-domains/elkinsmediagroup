@@ -1,0 +1,28 @@
+name: elkinsmediagroup
+favicon: null
+layout_spectrum: 0.1978711865376681
+typography_spectrum: 0.675258336821571
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8471090318635106
+  lightness: 0.37326203589327633
+  saturation: 0.8252864445094019
+  rhythmicContrast: 0.2921405672095716
+purpose: []
