@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[elkinsmediagroup]]></title>
         <description><![CDATA[elkinsmediagroup]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elkinsmediagroup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 12:11:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 12:30:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elkinsmediagroup/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[i need coffee  stat...]]></title>
+            <description><![CDATA[<article><h1>i need coffee  stat...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72cb2d86-6029-4279-812d-eae051228d98.png"></article>]]></description>
+            <link>https://thegrid.ai/elkinsmediagroup/i-need-coffee-stat/index.html</link>
+            <guid isPermaLink="false">1d1825eb-b9ae-41de-b545-f411e1d45985</guid>
+            <pubDate>Sun, 21 Feb 2016 12:28:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Voiceover News for February 21, 2016</p>]]></description>
-            <link>undefinede80e190c-06b4-4341-aa10-fe4e3c569b1c/index.html</link>
+            <link>https://thegrid.ai/elkinsmediagroup/e80e190c-06b4-4341-aa10-fe4e3c569b1c/index.html</link>
             <guid isPermaLink="false">e80e190c-06b4-4341-aa10-fe4e3c569b1c</guid>
             <pubDate>Sun, 21 Feb 2016 12:10:38 GMT</pubDate>
         </item>
