@@ -1,29 +1,41 @@
-name: elkinsmediagroup
-favicon: null
-layout_spectrum: 0.31891
-typography_spectrum: 0.32579
 title: a place to communicate
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8125
+  brandStrength: 0.75
+  rhythmicContrast: 0.25
   brandColors:
     - '#ffffff'
     - '#010101'
     - '#8c7c69'
     - '#81dafe'
     - '#61a2fe'
-  brandStrength: 0.75
   lightness: 0.75
-  saturation: 0.8125
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: elkinsmediagroup
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5794844
+layout_spectrum: 0.7878625
